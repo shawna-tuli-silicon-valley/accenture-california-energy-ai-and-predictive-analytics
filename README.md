@@ -4,3 +4,5 @@
 ![microsoft](https://user-images.githubusercontent.com/19508013/219159311-18ade93a-6e15-4152-bec3-2422b1acb617.jpg)
 ## How AI can forecast energy in the utilities industry
 Q: How can we predict energy usage per sector (residential, commercial, industrial) and per source (coal, petroleum, renewables, nuclear, etc.)? 
+![uci](https://user-images.githubusercontent.com/19508013/219168339-7adc8adb-be85-4bd9-b388-52db70d17267.png)
+![donald_bren](https://user-images.githubusercontent.com/19508013/219168357-a4eb143a-916d-464a-9c7f-03859679a759.png)
