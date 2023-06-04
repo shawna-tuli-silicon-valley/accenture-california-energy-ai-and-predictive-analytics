@@ -17,3 +17,5 @@ In addition to her technical skills, Shawna is also a great mentor. She is patie
 I have no doubt that Shawna would be an asset to any team. She is a highly skilled and experienced professional with a strong work ethic and a positive attitude." - Nima Hendi (University of California, Irvine Data Science Graduate)
 
 "Shawna is a great manager for my capstone project California Energy Prediction. She effectively introduced the scope of our work for the entire project and provided us with a comprehensive timeline as a reference. Throughout the project, our communication with Shawna was excellent. She responded promptly to our requests and efficiently coordinated meeting times. Her high level of responsibility and commitment to the project truly make her a valuable manager. Without a doubt, I would eagerly choose to work with her again in the future." - Frank Dong (University of California, Irvine Math & Data Science Graduate)
+
+# Presentation
