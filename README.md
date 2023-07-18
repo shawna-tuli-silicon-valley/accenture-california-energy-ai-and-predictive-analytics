@@ -3,7 +3,7 @@
 ![accenture applied intelligence](https://user-images.githubusercontent.com/19508013/215619855-a113fa12-24fb-421d-926a-d7636aa3c874.png)
 ![8867 Microsoft_5F00_Logo_2D00_for_2D00_screen](https://github.com/shawna-tuli-silicon-valley/accenture-california-energy-ai-and-predictive-analytics/assets/19508013/4df376a1-6ce1-4225-8bcd-64d6b75f57b6)
 
-### NPR 
+# NPR 
 • [California just ran on 100% renewable energy, but fossil fuels aren't fading away yet](https://www.npr.org/2022/05/07/1097376890/for-a-brief-moment-calif-fully-powered-itself-with-renewable-energy)
 
 # How AI can forecast energy in the utilities industry
