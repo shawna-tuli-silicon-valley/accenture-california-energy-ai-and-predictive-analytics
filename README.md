@@ -23,6 +23,8 @@ I have no doubt that Shawna would be an asset to any team. She is a highly skill
 
 "Shawna is a great manager for my capstone project California Energy Prediction. She effectively introduced the scope of our work for the entire project and provided us with a comprehensive timeline as a reference. Throughout the project, our communication with Shawna was excellent. She responded promptly to our requests and efficiently coordinated meeting times. Her high level of responsibility and commitment to the project truly make her a valuable manager. Without a doubt, I would eagerly choose to work with her again in the future." - Frank Dong (University of California, Irvine Math & Data Science Graduate)
 
+![IMG_0283](https://github.com/shawna-tuli-silicon-valley/accenture-california-energy-ai-and-predictive-analytics/assets/19508013/2f500d6f-19e3-4e19-8be0-e2725a7f8f24)
+
 # Presentation
 <img width="1273" alt="Screen Shot 2023-06-04 at 4 07 07 PM" src="https://github.com/shawna-tuli-silicon-valley/accenture-california-energy-predictive-analytics-and-ai/assets/19508013/005f1602-cab9-42ab-96f0-dd4fd408fb7d">
 
