@@ -13,9 +13,9 @@ Q: How can we predict energy usage per sector (residential, commercial, industri
 ![uci](https://user-images.githubusercontent.com/19508013/219168339-7adc8adb-be85-4bd9-b388-52db70d17267.png)
 ![donald_bren](https://user-images.githubusercontent.com/19508013/219168357-a4eb143a-916d-464a-9c7f-03859679a759.png)
 ___________________________________________________________________________________________________________________________________________
-"Shawna
+"Shawna,
 
-As you know, I am the Office Managing Director of Southern California and have worked with you on the Data Science / Applied Intelligence Capstone Program at University of CA at Irvine. You played a major role win working with the students, documenting the work and leading most of the effort. This program takes a lot of coordination and planning, and you did a great job. I appreciate that you are very active in supporting the Avanade and Accenture brand on LinkedIn and that you do it in a very professional and effective way." - Marty Hodgett (Accenture Southern California Managing Director) 
+As you know, I am the Office Managing Director of Southern California and have worked with you on the Data Science / Applied Intelligence Capstone Program at University of California, Irvine. You played a major role in working with the students, documenting the work and leading most of the effort. This program takes a lot of coordination and planning, and you did a great job. I appreciate that you are very active in supporting the Avanade and Accenture brand on LinkedIn and that you do it in a very professional and effective way." - Marty Hodgett (Accenture Southern California Managing Director) 
 
 "Shawna is an excellent mentor and communicator. She is a highly skilled and experienced professional with a deep understanding in data analytics and consulting. She is also a gifted communicator.
 
