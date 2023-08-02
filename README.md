@@ -9,7 +9,7 @@ Nominated for the Accenture V360 Awards in Innovation.
 • [California just ran on 100% renewable energy, but fossil fuels aren't fading away yet](https://www.npr.org/2022/05/07/1097376890/for-a-brief-moment-calif-fully-powered-itself-with-renewable-energy)
 
 # How AI can forecast energy in the utilities industry
-Q: How can we predict energy usage per sector (residential, commercial, industrial) and per source (coal, petroleum, renewables, nuclear, etc.)? 
+Q: How can we predict energy usage per sector (residential, commercial, industrial) in California? 
 ![uci](https://user-images.githubusercontent.com/19508013/219168339-7adc8adb-be85-4bd9-b388-52db70d17267.png)
 ![donald_bren](https://user-images.githubusercontent.com/19508013/219168357-a4eb143a-916d-464a-9c7f-03859679a759.png)
 ___________________________________________________________________________________________________________________________________________
