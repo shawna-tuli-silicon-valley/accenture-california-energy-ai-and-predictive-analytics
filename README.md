@@ -13,6 +13,14 @@ Q1: How can we predict energy usage per sector (residential, commercial, and ind
 ![uci](https://user-images.githubusercontent.com/19508013/219168339-7adc8adb-be85-4bd9-b388-52db70d17267.png)
 ![donald_bren](https://user-images.githubusercontent.com/19508013/219168357-a4eb143a-916d-464a-9c7f-03859679a759.png)
 ___________________________________________________________________________________________________________________________________________
+"I recommend Shawna for her exceptional leadership and dedication during the UC Irvine Capstone course in Spring 2023.
+
+Shawna's unwavering commitment to sourcing a comprehensive dataset for predicting energy demand in California underscores her diligence. This effort laid the foundation for an AI-driven product vision with a community welfare focus. Her data science expertise was pivotal in verifying student progress on a sprint basis and providing timely feedback.
+
+Notably, Shawna's adept student management skills shine. She skillfully combines challenge and support, even offering assistance on weekends. Her structured schedule and regular touchpoints guided students to success, embodying invaluable mentorship and support.
+
+Shawna's impact extended beyond the initial program goals. She played a crucial role in elevating the program by collaborating with Accenture team members to develop a draft version of a manuscript for journal submission. Her proactive contributions and collaborative approach exemplify her commitment to excellence." - Vishrut Chokshi (Accenture Los Angeles Senior Manager, Data Science Enablement & Delivery Lead)
+
 "Shawna brings great enthusiasm, problem solving and creativity. These capabilities combined with her drive to add value make Shawna a high performer in complex situations." - Manish Dasaur (Accenture Chief Data & Analytics Officer, Communications & Media North America)
 
 "Shawna,
