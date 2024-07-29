@@ -1,6 +1,6 @@
-![avanade](https://user-images.githubusercontent.com/19508013/219159257-2201f2d3-07de-4506-afad-d4ec0a542b35.jpg)
 ![accenture](https://user-images.githubusercontent.com/19508013/215619841-76b97b50-2ad3-4736-9a28-07d9fc1fadc3.png)
 ![accenture applied intelligence](https://user-images.githubusercontent.com/19508013/215619855-a113fa12-24fb-421d-926a-d7636aa3c874.png)
+![avanade](https://user-images.githubusercontent.com/19508013/219159257-2201f2d3-07de-4506-afad-d4ec0a542b35.jpg)
 ![8867 Microsoft_5F00_Logo_2D00_for_2D00_screen](https://github.com/shawna-tuli-silicon-valley/accenture-california-energy-ai-and-predictive-analytics/assets/19508013/4df376a1-6ce1-4225-8bcd-64d6b75f57b6)
 
 Nominated for the Accenture V360 Awards in Innovation. 
