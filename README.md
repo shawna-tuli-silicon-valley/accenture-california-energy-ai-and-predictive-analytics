@@ -10,8 +10,8 @@ Nominated for the Accenture V360 Awards in Innovation.
 
 # How AI can forecast energy in the utilities industry
 Q1: How can we predict energy usage per sector (residential, commercial, and industrial) in California? 
-![uci](https://user-images.githubusercontent.com/19508013/219168339-7adc8adb-be85-4bd9-b388-52db70d17267.png)
-![donald_bren](https://user-images.githubusercontent.com/19508013/219168357-a4eb143a-916d-464a-9c7f-03859679a759.png)
+
+![IMG_0283](https://github.com/shawna-tuli-silicon-valley/accenture-california-energy-ai-and-predictive-analytics/assets/19508013/2f500d6f-19e3-4e19-8be0-e2725a7f8f24)
 ___________________________________________________________________________________________________________________________________________
 "I recommend Shawna for her exceptional leadership and dedication during the UC Irvine Capstone course in Spring 2023.
 
@@ -37,4 +37,5 @@ I have no doubt that Shawna would be an asset to any team. She is a highly skill
 
 "Shawna is a great manager for my capstone project California Energy Prediction. She effectively introduced the scope of our work for the entire project and provided us with a comprehensive timeline as a reference. Throughout the project, our communication with Shawna was excellent. She responded promptly to our requests and efficiently coordinated meeting times. Her high level of responsibility and commitment to the project truly make her a valuable manager. Without a doubt, I would eagerly choose to work with her again in the future." - Frank Dong (University of California, Irvine Math & Data Science Graduate)
 
-![IMG_0283](https://github.com/shawna-tuli-silicon-valley/accenture-california-energy-ai-and-predictive-analytics/assets/19508013/2f500d6f-19e3-4e19-8be0-e2725a7f8f24)
+![uci](https://user-images.githubusercontent.com/19508013/219168339-7adc8adb-be85-4bd9-b388-52db70d17267.png)
+![donald_bren](https://user-images.githubusercontent.com/19508013/219168357-a4eb143a-916d-464a-9c7f-03859679a759.png)
