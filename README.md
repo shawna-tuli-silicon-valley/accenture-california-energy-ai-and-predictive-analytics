@@ -5,10 +5,9 @@
 
 Nominated for the Accenture V360 Awards in Innovation. 
 
-# California Energy Consumption Prediction 
 • [California just ran on 100% renewable energy, but fossil fuels aren't fading away yet](https://www.npr.org/2022/05/07/1097376890/for-a-brief-moment-calif-fully-powered-itself-with-renewable-energy)
 
-# How AI can forecast energy in the utilities industry
+# California Energy Consumption Prediction 
 Q1: How can we predict energy usage per sector (residential, commercial, and industrial) in California? 
 
 ![IMG_0283](https://github.com/shawna-tuli-silicon-valley/accenture-california-energy-ai-and-predictive-analytics/assets/19508013/2f500d6f-19e3-4e19-8be0-e2725a7f8f24)
