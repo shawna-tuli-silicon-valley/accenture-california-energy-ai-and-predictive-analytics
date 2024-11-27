@@ -5,7 +5,7 @@
 
 Nominated for the Accenture V360 Awards in Innovation. 
 
-# NPR 
+# California Energy Consumption Prediction 
 • [California just ran on 100% renewable energy, but fossil fuels aren't fading away yet](https://www.npr.org/2022/05/07/1097376890/for-a-brief-moment-calif-fully-powered-itself-with-renewable-energy)
 
 # How AI can forecast energy in the utilities industry
